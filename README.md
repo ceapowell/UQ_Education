@@ -4,9 +4,11 @@ A collection of resources for those designing lecture courses on UQ.
 
 ## Text Books 
 
-Ralph Smith, Uncertainty Quantification: Theory, Implementation, and Applications, SIAM, 2014.
+- Ralph Smith, Uncertainty Quantification: Theory, Implementation, and Applications, SIAM, 2014.
 
-Tim Sullivan, Uncertainty Quantification, Springer.
+- Gabriel Lord, Catherine Powell, Tony Shardlow, An Introduction to Computational Stochastic PDEs, CUP, 2014.
+
+- Tim Sullivan, Introduction to Uncertainty Quantification, Springer, 2015
 
 Data Assimilation ones .....
  
