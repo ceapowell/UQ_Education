@@ -21,7 +21,7 @@ A collection of resources that might be helpful for those designing lecture cour
 
 - Jan S Hesthaven, Gianluigi Rozza, Benjamin Stamm, Certified Reduced Basis Methods for Parametrized PDEs, Springer, 2016.
 
-### Statisical Computing
+### Statistical Computing
 
 - Jochen Voss, An Introduction to Statistical Computing, Wiley, 2013. 
  
