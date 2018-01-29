@@ -9,7 +9,7 @@ A collection of resources that might be helpful for those designing lecture cour
 - Tim Sullivan, Introduction to Uncertainty Quantification, Springer, 2015.
 
 ### Stochastic + Random PDEs
-- Gabriel Lord, Catherine Powell, Tony Shardlow, An Introduction to Computational Stochastic PDEs, CUP, 2014. [Solutions to Exercises - Password required (email authors if you are a course instructor](http://www.maths.manchester.ac.uk/~shardlow/intro_cspde/)
+- Gabriel Lord, Catherine Powell, Tony Shardlow, An Introduction to Computational Stochastic PDEs, CUP, 2014. [Solutions to Exercises - Password required (email authors if you are a course instructor)](http://www.maths.manchester.ac.uk/~shardlow/intro_cspde/)
 
 ### Data Assimilation
 - Kody Law, Andrew Stuart, Konstantinos Zygalakis, Data Assimilation - A Mathematical Introduction, Springer, 2015. 
