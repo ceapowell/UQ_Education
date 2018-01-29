@@ -15,9 +15,9 @@ Data Assimilation ones .....
  
  ## Lecture Notes 
  
- -[Masoumeh Dashti, Andrew Stuart, The Bayesian Approach To Inverse Problems](https://arxiv.org/abs/1302.6989)
+ - [Masoumeh Dashti, Andrew Stuart, The Bayesian Approach To Inverse Problems](https://arxiv.org/abs/1302.6989)
  
- -[Ralph Smith's Lecture Course on Uncertainty Quantification for Physical and Biological Models](http://www4.ncsu.edu/~rsmith/MA540_S18/MA540_s18_lectures.html)
+ - [Ralph Smith's Lecture Course on Uncertainty Quantification for Physical and Biological Models](http://www4.ncsu.edu/~rsmith/MA540_S18/MA540_s18_lectures.html)
 
 ### Past Summer/Winter Schools
 
@@ -32,18 +32,18 @@ Data Assimilation ones .....
 
 ### MATLAB 
 
--[Mike Giles' Multi-Level Monte Carlo code](https://people.maths.ox.ac.uk/gilesm/mlmc/)
+- [Mike Giles' Multi-Level Monte Carlo code](https://people.maths.ox.ac.uk/gilesm/mlmc/)
 
--[SIFISS: Stochastic Galerkin FEM for Elliptic PDEs](http://www.maths.manchester.ac.uk/~djs/ifiss/sifiss.html)
+- [SIFISS: Stochastic Galerkin FEM for Elliptic PDEs](http://www.maths.manchester.ac.uk/~djs/ifiss/sifiss.html)
 
--[UQLAB: UQ toolbox](http://www.uqlab.com)
+- [UQLAB: UQ toolbox](http://www.uqlab.com)
 
--[SPINTERP : Sparse Grid Toolbox](http://people.sc.fsu.edu/~jburkardt/m_src/spinterp/spinterp.html)
+- [SPINTERP : Sparse Grid Toolbox](http://people.sc.fsu.edu/~jburkardt/m_src/spinterp/spinterp.html)
 
--[An Introduction to Computational Stochastic PDEs](http://www.maths.manchester.ac.uk/~shardlow/intro_cspde/)
+- [An Introduction to Computational Stochastic PDEs](http://www.maths.manchester.ac.uk/~shardlow/intro_cspde/)
 
 ### Python
--[Abdul-Lateef Haji-Ali's Multi-index Monte Carlo code](https://github.com/haji-ali/mimclib)
+- [Abdul-Lateef Haji-Ali's Multi-index Monte Carlo code](https://github.com/haji-ali/mimclib)
 
 ### R 
 
