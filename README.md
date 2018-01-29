@@ -5,8 +5,10 @@ A collection of resources for those designing lecture courses on UQ.
 ## Text Books 
 
 Ralph Smith, Uncertainty Quantification, SIAM.
+
 Tim Sullivan, Uncertainty Quantification, Springer.
- Data Assimilation ones .....
+
+Data Assimilation ones .....
  
  Jochen Voss, 
  
