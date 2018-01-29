@@ -21,6 +21,8 @@ Data Assimilation ones .....
 
 ### Past Summer/Winter Schools
 
+- [GAMM Summer School on Bayesian Inference](http://mathopt.math.uni-mannheim.de/en/news/4th-gamm-juniors-and-1st-grk2075-summer-school-2017/)
+
 
 ## Simple Model Problems
 
