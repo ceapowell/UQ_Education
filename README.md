@@ -4,7 +4,7 @@ A collection of resources for those designing lecture courses on UQ.
 
 ## Text Books 
 
-Ralph Smith, Uncertainty Quantification, SIAM.
+Ralph Smith, Uncertainty Quantification: Theory, Implementation, and Applications, SIAM, 2014.
 
 Tim Sullivan, Uncertainty Quantification, Springer.
 
