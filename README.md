@@ -1,5 +1,5 @@
 # UQ_Education
-A collection of resources that might be helpful for those designing lecture courses on UQ. This page was compiled as a result of discussions between Programme Participants at the Isaac Newton Institute, as part of the six month programme on Uncertainty Quantification programme (2018). 
+A collection of resources that might be helpful for those designing lecture courses on UQ. This page was compiled as a result of discussions between Programme Participants at the Isaac Newton Institute, as part of the six month programme on Uncertainty Quantification (2018). 
 
 
 ## Text Books 
