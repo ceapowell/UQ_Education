@@ -1,5 +1,5 @@
 # UQ_Education
-A collection of resources for those designing lecture courses on UQ. 
+A collection of resources that might be helpful for those designing lecture courses on UQ. 
 
 
 ## Text Books 
