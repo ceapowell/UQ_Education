@@ -30,6 +30,8 @@ Data Assimilation ones .....
 
 -[SIFISS: Stochastic Galerkin FEM for Elliptic PDEs](http://www.maths.manchester.ac.uk/~djs/ifiss/sifiss.html)
 
+-[UQLAB: UQ toolbox](http://www.uqlab.com)
+
 ### Python
 -[Abdul-Lateef Haji-Ali's Multi-index Monte Carlo code](https://github.com/haji-ali/mimclib)
 
