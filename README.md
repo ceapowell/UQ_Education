@@ -23,7 +23,7 @@ Data Assimilation ones .....
 
 - [GAMM Summer School on Bayesian Inference](http://mathopt.math.uni-mannheim.de/en/news/4th-gamm-juniors-and-1st-grk2075-summer-school-2017/)
 
--[Alan Turing Institute Workshop on Mathematical aspects of inverse problems](http://mathopt.math.uni-mannheim.de/en/news/workshop-mathematical-aspects-of-inverse-problems/)
+- [Alan Turing Institute Workshop on Mathematical aspects of inverse problems](http://mathopt.math.uni-mannheim.de/en/news/workshop-mathematical-aspects-of-inverse-problems/)
 
 ## Simple Model Problems
 
