@@ -16,6 +16,8 @@ Data Assimilation ones .....
  ## Lecture Notes 
  
  -[Masoumeh Dashti, Andrew Stuart, The Bayesian Approach To Inverse Problems](https://arxiv.org/abs/1302.6989)
+ 
+ -[Ralph Smith's Lecture Course on Uncertainty Quantification for Physical and Biological Models ] (http://www4.ncsu.edu/~rsmith/MA540_S18/MA540_s18_lectures.html)
 
 ## Simple Model Problems
 
