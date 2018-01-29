@@ -15,7 +15,7 @@ A collection of resources that might be helpful for those designing lecture cour
 
 - Sebastian Reich, Colin Cotter, Probabilistic Forecasting and Data Assimilation, CUP, 2015.
 
-### Reducded Basis Methods 
+### Reduced Basis Methods 
 - Alfio Quarteroni, Andrea Manzoni, Federico Negri, Reducded Basis Methods for PDEs, Springer, 2016.
 
 - Jan S Hesthaven, Gianluigi Rozza, Benjamin Stamm, Certified Reduced Basis Methods for Parametrized PDEs, Springer, 2016.
