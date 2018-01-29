@@ -6,13 +6,18 @@ A collection of resources for those designing lecture courses on UQ.
 
 - Ralph Smith, Uncertainty Quantification: Theory, Implementation, and Applications, SIAM, 2014.
 
+- Tim Sullivan, Introduction to Uncertainty Quantification, Springer, 2015.
+
 - Gabriel Lord, Catherine Powell, Tony Shardlow, An Introduction to Computational Stochastic PDEs, CUP, 2014.
 
-- Tim Sullivan, Introduction to Uncertainty Quantification, Springer, 2015
+- Kody Law, Andrew Stuart, Konstantinos Zygalakis, Data Assimilation - A Mathematical Introduction, Springer, 2015. 
 
-Data Assimilation ones .....
- 
- Jochen Voss, 
+- Sebastian Reich, Colin Cotter, Probabilistic Forecasting and Data Assimilation, CUP, 2015.
+
+- Alfio Quarteroni, Andrea Manzoni, Federico Negri, Reducded Basis Methods for PDEs, Springer, 2016.
+
+- Jan S Hesthaven, Gianluigi Rozza, Benjamin Stamm, Certified Reduced Basis Methods for Parametrized PDEs, Springer, 2016.
+
  
  
  ## Lecture Notes 
