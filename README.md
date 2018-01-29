@@ -10,10 +10,12 @@ A collection of resources that might be helpful for those designing lecture cour
 
 - Gabriel Lord, Catherine Powell, Tony Shardlow, An Introduction to Computational Stochastic PDEs, CUP, 2014. [Solutions to Exercises - Password required (email authors)](http://www.maths.manchester.ac.uk/~shardlow/intro_cspde/)
 
+### Data Assimilation
 - Kody Law, Andrew Stuart, Konstantinos Zygalakis, Data Assimilation - A Mathematical Introduction, Springer, 2015. 
 
 - Sebastian Reich, Colin Cotter, Probabilistic Forecasting and Data Assimilation, CUP, 2015.
 
+### Reducded Basis Methods 
 - Alfio Quarteroni, Andrea Manzoni, Federico Negri, Reducded Basis Methods for PDEs, Springer, 2016.
 
 - Jan S Hesthaven, Gianluigi Rozza, Benjamin Stamm, Certified Reduced Basis Methods for Parametrized PDEs, Springer, 2016.
